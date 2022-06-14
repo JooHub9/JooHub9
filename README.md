@@ -1,13 +1,10 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg">
+<div>
+  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQF0LCihGrA6nw/profile-displaybackgroundimage-shrink_350_1400/0/1652435238747?e=1660780800&v=beta&t=ZYzTnrwQ4M4BdOlYQIQyHAKcD7bpu2QdZ2ell3fi3uY">
     </div>
    
 
 <div align="center"> 
   <p> Hi, I’m @JooHub9 👋 </p> 
-  <p> I’m l👀king for a change in my life! </p> 
-  <p>🌱 I’m currently learning Web Development 💻</p>
-  <p>📫 How to reach me: joanarsantos92@gmail.com </p>
 </div>
 
 <!---
