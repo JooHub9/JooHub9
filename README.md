@@ -1,8 +1,7 @@
 Hello, my name is Joana!
 
-I'm currently learning web front-end Angular.
-
-I am looking for ways to evolve more and a future career opportunity in this field.
+Constantly looking for ways to learn more.
+Frontend Developer.
 
 Welcome :)
 
